@@ -7,6 +7,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@types/node": "^8.0.47",
-    "discord.js": "latest"
+    "discord.js": "14.14.0"
   }
 }
